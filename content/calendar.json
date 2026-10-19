@@ -1,0 +1,2206 @@
+{
+ "boards": [
+  "Budget Templates & Spreadsheets",
+  "Paycheck to Paycheck Budgeting",
+  "Debt Payoff Plans",
+  "Money Saving Challenges",
+  "Sinking Funds & Saving Tips"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "reel": {
+    "id": "d01",
+    "variables": {
+     "format": "planner",
+     "hook": "Why paycheck #2 always feels broke",
+     "cta": "Comment BUDGET · I'll DM you the link",
+     "ctaType": "comment",
+     "music": "assets/music/m1.mp3",
+     "screen": "assets/screens/system_paycheck_planner.png",
+     "screenRatio": 0.6566,
+     "focus": "0.6041,0.5432,0.1213,0.1282",
+     "label": "Only $10.01 left after bills",
+     "line1": "Rent is due on the 1st, so it comes out of paycheck #2.",
+     "line2": "The fix",
+     "line3": "Move one bill's due date to the 15th."
+    },
+    "caption": "Why paycheck #2 always feels broke\n\nPaycheck #2 isn't smaller. It's just carrying rent. The Paycheck Planner shows which paycheck pays which bill and what's left after. (Example numbers.)\n\nComment BUDGET and I'll DM you the link to the full Paycheck to Paycheck Budget System.\nSave this for your next payday.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "Why paycheck #2 always feels broke #shorts"
+   },
+   "pins": [
+    {
+     "link": "PAID_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "stat",
+     "headline": "Why paycheck #2 always feels broke",
+     "big": "Only $10.01 left after bills",
+     "sub": "Move one bill's due date to the 15th.",
+     "screen": "system_paycheck_planner",
+     "crop": "0.5697,0.4908,0.1901,0.2330",
+     "id": "d01-a",
+     "title": "Why paycheck #2 always feels broke | Paycheck Budget",
+     "description": "Paycheck #2 isn't smaller. It's just carrying rent. The Paycheck Planner shows which paycheck pays which bill and what's left after. (Example numbers.) Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Why paycheck #2 always feels broke. Only $10.01 left after bills"
+    },
+    {
+     "id": "d01-b",
+     "template": "shot",
+     "headline": "Which paycheck pays which bill?",
+     "sub": "Paycheck Planner · Google Sheets & Excel",
+     "screen": "system_paycheck_planner",
+     "theme": 0,
+     "link": "PAID_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Which paycheck pays which bill? | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Which paycheck pays which bill? Paycheck Planner · Google Sheets & Excel. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: which paycheck pays which bill?."
+    },
+    {
+     "id": "d01-c",
+     "template": "list",
+     "headline": "Budgeting for beginners: 5 steps",
+     "items": [
+      "Find your take-home pay",
+      "List every bill and due date",
+      "Match bills to paychecks",
+      "Plan food, gas and fun",
+      "Track for one month"
+     ],
+     "theme": 0,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Budgeting for beginners: 5 steps | Budgeting Tips",
+     "description": "Budgeting for beginners: 5 steps: Find your take-home pay; List every bill and due date; Match bills to paychecks; Plan food, gas and fun; Track for one month. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Budgeting for beginners: 5 steps: Find your take-home pay, List every bill and due date, Match bills to paychecks, Plan food, gas and fun, Track for one month"
+    }
+   ]
+  },
+  {
+   "day": 2,
+   "reel": {
+    "id": "d02",
+    "variables": {
+     "format": "tips",
+     "hook": "3 bills you can move to a better payday",
+     "cta": "Send this to a friend · who gets paid every 2 weeks",
+     "ctaType": "share",
+     "music": "assets/music/m2.mp3",
+     "line1": "Credit cards: many issuers let you pick your due date",
+     "line2": "Phone & internet: ask support to switch your billing date",
+     "line3": "Car insurance: change the payment date in the app"
+    },
+    "caption": "3 bills you can move to a better payday\n\nOne phone call can fix a broke second paycheck. Spread your big bills across both paychecks.\n\nSave this for your next payday, and send it to a friend who gets paid every 2 weeks.\nWant the free budget template? Comment BUDGET and I'll DM you the link.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "3 bills you can move to a better payday #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "list",
+     "headline": "3 bills you can move to a better payday",
+     "items": [
+      "Credit cards: many issuers let you pick your due date",
+      "Phone & internet: ask support to switch your billing date",
+      "Car insurance: change the payment date in the app"
+     ],
+     "id": "d02-a",
+     "title": "3 bills you can move to a better payday | Paycheck Budget",
+     "description": "One phone call can fix a broke second paycheck. Spread your big bills across both paychecks. Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "3 bills you can move to a better payday."
+    },
+    {
+     "id": "d02-b",
+     "template": "shot",
+     "headline": "See your debt-free date",
+     "sub": "Debt snowball & avalanche spreadsheet",
+     "screen": "system_debt_payoff",
+     "theme": 0,
+     "link": "PAID_URL",
+     "board": "Debt Payoff Plans",
+     "title": "See your debt-free date | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "See your debt-free date. Debt snowball & avalanche spreadsheet. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: see your debt-free date."
+    },
+    {
+     "id": "d02-c",
+     "template": "list",
+     "headline": "Monthly bills checklist",
+     "items": [
+      "Rent or mortgage",
+      "Utilities & water",
+      "Phone & internet",
+      "Insurance",
+      "Subscriptions",
+      "Debt minimums",
+      "Childcare"
+     ],
+     "theme": 0,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Monthly bills checklist | Budgeting Tips",
+     "description": "Monthly bills checklist: Rent or mortgage; Utilities & water; Phone & internet; Insurance; Subscriptions; Debt minimums; Childcare. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Monthly bills checklist: Rent or mortgage, Utilities & water, Phone & internet, Insurance, Subscriptions, Debt minimums, Childcare"
+    }
+   ]
+  },
+  {
+   "day": 3,
+   "reel": {
+    "id": "d03",
+    "variables": {
+     "format": "math",
+     "hook": "A $2,500 paycheck, every dollar planned",
+     "cta": "Send this to a friend · who gets paid every 2 weeks",
+     "ctaType": "share",
+     "music": "assets/music/m3.mp3",
+     "title": "$2,500 paycheck",
+     "rows": "Rent|1100;Bills|357;Groceries & gas|440;Debt|250;Savings|200;Fun & buffer|153",
+     "line2": "Left to spend: $0",
+     "line3": "Every dollar has a job before payday."
+    },
+    "caption": "A $2,500 paycheck, every dollar planned\n\nZero-based doesn't mean zero fun. It means every dollar has a job, fun money included. (Example budget.)\n\nSave this for your next payday, and send it to a friend who gets paid every 2 weeks.\nWant the free budget template? Comment BUDGET and I'll DM you the link.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "A $2,500 paycheck, every dollar planned #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "amounts",
+     "headline": "A $2,500 paycheck, every dollar planned",
+     "mtitle": "$2,500 paycheck",
+     "rows": [
+      [
+       "Rent",
+       1100
+      ],
+      [
+       "Bills",
+       357
+      ],
+      [
+       "Groceries & gas",
+       440
+      ],
+      [
+       "Debt",
+       250
+      ],
+      [
+       "Savings",
+       200
+      ],
+      [
+       "Fun & buffer",
+       153
+      ]
+     ],
+     "total": "Left to spend: $0",
+     "punch": "Every dollar has a job before payday.",
+     "id": "d03-a",
+     "title": "A $2,500 paycheck, every dollar planned | Paycheck Budget",
+     "description": "Zero-based doesn't mean zero fun. It means every dollar has a job, fun money included. (Example budget.) Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "A $2,500 paycheck, every dollar planned. Every dollar has a job before payday."
+    },
+    {
+     "id": "d03-b",
+     "template": "shot",
+     "headline": "Budget spreadsheet with a dashboard",
+     "sub": "Plan vs actual, every month",
+     "screen": "system_dashboard",
+     "theme": 0,
+     "link": "PAID_URL",
+     "board": "Budget Templates & Spreadsheets",
+     "title": "Budget spreadsheet with a dashboard | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Budget spreadsheet with a dashboard. Plan vs actual, every month. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: budget spreadsheet with a dashboard."
+    },
+    {
+     "id": "d03-c",
+     "template": "list",
+     "headline": "10 sinking funds to start",
+     "items": [
+      "Car repairs",
+      "Gifts & holidays",
+      "Medical",
+      "Home repairs",
+      "Pet care",
+      "Vacation",
+      "Back to school",
+      "Annual subscriptions",
+      "Clothing",
+      "Car insurance"
+     ],
+     "theme": 0,
+     "link": "FREE_URL",
+     "board": "Sinking Funds & Saving Tips",
+     "title": "10 sinking funds to start | Budgeting Tips",
+     "description": "10 sinking funds to start: Car repairs; Gifts & holidays; Medical; Home repairs; Pet care; Vacation; Back to school; Annual subscriptions; Clothing; Car insurance. Save this for your next payday. Free paycheck budget template at the link. sinking funds, emergency fund, saving money tips, budget planner.",
+     "alt": "10 sinking funds to start: Car repairs, Gifts & holidays, Medical, Home repairs, Pet care, Vacation, Back to school, Annual subscriptions, Clothing, Car insurance"
+    }
+   ]
+  },
+  {
+   "day": 4,
+   "reel": {
+    "id": "d04",
+    "variables": {
+     "format": "challenge",
+     "hook": "Save $1,378 this year without feeling it",
+     "cta": "Comment BUDGET · I'll DM you the free printable",
+     "ctaType": "comment",
+     "music": "assets/music/m4.mp3",
+     "cells": 52,
+     "start": 1,
+     "step": 1,
+     "label": "52 weeks · start at $1 · add $1 a week",
+     "line3": "Week 1: $1. Week 52: $52. Total: $1,378."
+    },
+    "caption": "Save $1,378 this year without feeling it\n\nThe classic 52-week savings challenge. Start tiny, and the habit does the work.\n\nComment BUDGET and I'll DM you the free 52-week savings challenge printable.\nSave this for your next payday.\n\n#savingschallenge #52weekchallenge #savemoney #budgeting #moneysavingtips #frugalliving",
+    "youtube_title": "Save $1,378 this year without feeling it #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE52_URL",
+     "board": "Money Saving Challenges",
+     "theme": 0,
+     "template": "grid",
+     "headline": "Save $1,378 this year without feeling it",
+     "cells": 52,
+     "start": 1,
+     "step": 1,
+     "label": "52 weeks · start at $1 · add $1 a week",
+     "id": "d04-a",
+     "title": "Save $1,378 this year without feeling it | Money Saving Challenge",
+     "description": "The classic 52-week savings challenge. Start tiny, and the habit does the work. Save this pin for your next payday. Keywords: money saving challenge, 52 week savings challenge, how to save money.",
+     "alt": "Save $1,378 this year without feeling it. 52 weeks · start at $1 · add $1 a week"
+    },
+    {
+     "id": "d04-b",
+     "template": "shot",
+     "headline": "Plan all 12 months in 10 minutes",
+     "sub": "Monthly budget template",
+     "screen": "system_budget",
+     "theme": 0,
+     "link": "PAID_URL",
+     "board": "Budget Templates & Spreadsheets",
+     "title": "Plan all 12 months in 10 minutes | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Plan all 12 months in 10 minutes. Monthly budget template. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: plan all 12 months in 10 minutes."
+    },
+    {
+     "id": "d04-c",
+     "template": "list",
+     "headline": "Biweekly budget tips",
+     "items": [
+      "Budget per paycheck, not per month",
+      "Know your 3-paycheck months",
+      "Split big bills across both checks",
+      "Save the 3rd paycheck"
+     ],
+     "theme": 0,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Biweekly budget tips | Budgeting Tips",
+     "description": "Biweekly budget tips: Budget per paycheck, not per month; Know your 3-paycheck months; Split big bills across both checks; Save the 3rd paycheck. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Biweekly budget tips: Budget per paycheck, not per month, Know your 3-paycheck months, Split big bills across both checks, Save the 3rd paycheck"
+    }
+   ]
+  },
+  {
+   "day": 5,
+   "reel": {
+    "id": "d05",
+    "variables": {
+     "format": "planner",
+     "hook": "When will I actually be debt-free?",
+     "cta": "Comment BUDGET · I'll DM you the link",
+     "ctaType": "comment",
+     "music": "assets/music/m2.mp3",
+     "screen": "assets/screens/system_debt_payoff.png",
+     "screenRatio": 0.6167,
+     "focus": "0.0106,0.6929,0.3091,0.0470",
+     "label": "Debt-free: Nov 2030",
+     "line1": "5 debts, $150 extra a month, snowball method.",
+     "line2": "Minimums only",
+     "line3": "Nov 2036. Six years longer."
+    },
+    "caption": "When will I actually be debt-free?\n\nType your debts once and see your debt-free date. Snowball or avalanche, one click. (Example debts.)\n\nComment BUDGET and I'll DM you the link to the full Paycheck to Paycheck Budget System.\nSave this for your next payday.\n\n#debtfree #debtpayoff #snowballmethod #budgeting #moneytips #personalfinance #debtfreejourney",
+    "youtube_title": "When will I actually be debt-free? #shorts"
+   },
+   "pins": [
+    {
+     "link": "PAID_URL",
+     "board": "Debt Payoff Plans",
+     "theme": 0,
+     "template": "stat",
+     "headline": "When will I actually be debt-free?",
+     "big": "Debt-free: Nov 2030",
+     "sub": "Nov 2036. Six years longer.",
+     "screen": "system_debt_payoff",
+     "crop": "0.0000,0.6382,0.3534,0.1562",
+     "id": "d05-a",
+     "title": "When will I actually be debt-free? | Debt Payoff Plan",
+     "description": "Type your debts once and see your debt-free date. Snowball or avalanche, one click. (Example debts.) Save this pin for your next payday. Keywords: debt payoff plan, debt snowball, debt free, budget spreadsheet.",
+     "alt": "When will I actually be debt-free?. Debt-free: Nov 2030"
+    },
+    {
+     "id": "d05-b",
+     "template": "shot",
+     "headline": "Sinking funds tracker that does the math",
+     "sub": "How much to save each month",
+     "screen": "system_sinking_funds",
+     "theme": 0,
+     "link": "PAID_URL",
+     "board": "Sinking Funds & Saving Tips",
+     "title": "Sinking funds tracker that does the math | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Sinking funds tracker that does the math. How much to save each month. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: sinking funds tracker that does the math."
+    },
+    {
+     "id": "d05-c",
+     "template": "list",
+     "headline": "How to stop living paycheck to paycheck",
+     "items": [
+      "Build a $500 starter buffer",
+      "Match bills to paychecks",
+      "Cut one unused subscription",
+      "Start one sinking fund",
+      "Track spending weekly"
+     ],
+     "theme": 0,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "How to stop living paycheck to paycheck | Budgeting Tips",
+     "description": "How to stop living paycheck to paycheck: Build a $500 starter buffer; Match bills to paychecks; Cut one unused subscription; Start one sinking fund; Track spending weekly. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "How to stop living paycheck to paycheck: Build a $500 starter buffer, Match bills to paychecks, Cut one unused subscription, Start one sinking fund, Track spending weekly"
+    }
+   ]
+  },
+  {
+   "day": 6,
+   "reel": {
+    "id": "d06",
+    "variables": {
+     "format": "tips",
+     "hook": "Sinking funds that save your December",
+     "cta": "Send this to a friend · who hates surprise bills",
+     "ctaType": "share",
+     "music": "assets/music/m1.mp3",
+     "line1": "Gifts: $50 a month is $600 by December",
+     "line2": "Car repairs: $25 a month, no panic at the shop",
+     "line3": "Yearly bills: renewals, registration, memberships"
+    },
+    "caption": "Sinking funds that save your December\n\nA sinking fund turns a surprise bill into a planned one. Start with the costs you already know are coming.\n\nSave this for your next payday, and send it to a friend who hates surprise bills.\nWant the free budget template? Comment BUDGET and I'll DM you the link.\n\n#sinkingfunds #budgetingtips #emergencyfund #moneymanagement #budgeting #savemoney",
+    "youtube_title": "Sinking funds that save your December #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE_URL",
+     "board": "Sinking Funds & Saving Tips",
+     "theme": 0,
+     "template": "list",
+     "headline": "Sinking funds that save your December",
+     "items": [
+      "Gifts: $50 a month is $600 by December",
+      "Car repairs: $25 a month, no panic at the shop",
+      "Yearly bills: renewals, registration, memberships"
+     ],
+     "id": "d06-a",
+     "title": "Sinking funds that save your December | Sinking Funds",
+     "description": "A sinking fund turns a surprise bill into a planned one. Start with the costs you already know are coming. Save this pin for your next payday. Keywords: sinking funds, emergency fund, saving money tips, budget planner.",
+     "alt": "Sinking funds that save your December."
+    },
+    {
+     "id": "d06-b",
+     "template": "shot",
+     "headline": "52-week savings challenge tracker",
+     "sub": "Mark a week, watch it grow",
+     "screen": "system_challenge",
+     "theme": 0,
+     "link": "PAID_URL",
+     "board": "Money Saving Challenges",
+     "title": "52-week savings challenge tracker | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "52-week savings challenge tracker. Mark a week, watch it grow. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: 52-week savings challenge tracker."
+    },
+    {
+     "id": "d06-c",
+     "template": "list",
+     "headline": "Payday checklist",
+     "items": [
+      "Pay bills due before next check",
+      "Move savings first",
+      "Add extra debt payment",
+      "Refill sinking funds",
+      "Set your daily spending number"
+     ],
+     "theme": 0,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Payday checklist | Budgeting Tips",
+     "description": "Payday checklist: Pay bills due before next check; Move savings first; Add extra debt payment; Refill sinking funds; Set your daily spending number. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Payday checklist: Pay bills due before next check, Move savings first, Add extra debt payment, Refill sinking funds, Set your daily spending number"
+    }
+   ]
+  },
+  {
+   "day": 7,
+   "reel": {
+    "id": "d07",
+    "variables": {
+     "format": "math",
+     "hook": "The 50/30/20 rule on a $3,200 paycheck",
+     "cta": "Send this to a friend · who gets paid every 2 weeks",
+     "ctaType": "share",
+     "music": "assets/music/m4.mp3",
+     "title": "$3,200 a month",
+     "rows": "Needs · 50%|1600;Wants · 30%|960;Savings & debt · 20%|640",
+     "line2": "Total: $3,200",
+     "line3": "Too tight? Try 60/20/20 for now."
+    },
+    "caption": "The 50/30/20 rule on a $3,200 paycheck\n\n50/30/20 is a starting point, not a rule. Adjust it until it fits your real bills.\n\nSave this for your next payday, and send it to a friend who gets paid every 2 weeks.\nWant the free budget template? Comment BUDGET and I'll DM you the link.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "The 50/30/20 rule on a $3,200 paycheck #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "amounts",
+     "headline": "The 50/30/20 rule on a $3,200 paycheck",
+     "mtitle": "$3,200 a month",
+     "rows": [
+      [
+       "Needs · 50%",
+       1600
+      ],
+      [
+       "Wants · 30%",
+       960
+      ],
+      [
+       "Savings & debt · 20%",
+       640
+      ]
+     ],
+     "total": "Total: $3,200",
+     "punch": "Too tight? Try 60/20/20 for now.",
+     "id": "d07-a",
+     "title": "The 50/30/20 rule on a $3,200 paycheck | Paycheck Budget",
+     "description": "50/30/20 is a starting point, not a rule. Adjust it until it fits your real bills. Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "The 50/30/20 rule on a $3,200 paycheck. Too tight? Try 60/20/20 for now."
+    },
+    {
+     "id": "d07-b",
+     "template": "shot",
+     "headline": "Your whole year on one screen",
+     "sub": "Annual budget summary",
+     "screen": "system_annual",
+     "theme": 0,
+     "link": "PAID_URL",
+     "board": "Budget Templates & Spreadsheets",
+     "title": "Your whole year on one screen | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Your whole year on one screen. Annual budget summary. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: your whole year on one screen."
+    },
+    {
+     "id": "d07-c",
+     "template": "list",
+     "headline": "Money saving challenges to try",
+     "items": [
+      "52-week challenge · $1,378",
+      "100 envelope challenge · $5,050",
+      "$1,000 in 100 days",
+      "No-spend weekend",
+      "Pantry challenge week"
+     ],
+     "theme": 0,
+     "link": "FREE52_URL",
+     "board": "Money Saving Challenges",
+     "title": "Money saving challenges to try | Budgeting Tips",
+     "description": "Money saving challenges to try: 52-week challenge · $1,378; 100 envelope challenge · $5,050; $1,000 in 100 days; No-spend weekend; Pantry challenge week. Save this for your next payday. Free 52-week savings challenge printable at the link. money saving challenge, 52 week savings challenge, how to save money.",
+     "alt": "Money saving challenges to try: 52-week challenge · $1,378, 100 envelope challenge · $5,050, $1,000 in 100 days, No-spend weekend, Pantry challenge week"
+    }
+   ]
+  },
+  {
+   "day": 8,
+   "reel": {
+    "id": "d08",
+    "variables": {
+     "format": "planner",
+     "hook": "I tracked every dollar for a month",
+     "cta": "Comment BUDGET · I'll DM you the link",
+     "ctaType": "comment",
+     "music": "assets/music/m3.mp3",
+     "screen": "assets/screens/system_dashboard.png",
+     "screenRatio": 0.6628,
+     "focus": "0.4426,0.1520,0.0641,0.0702",
+     "label": "$83.12 left over",
+     "line1": "Money in $3,967. Money out $3,633. Saved $250.",
+     "line2": "The surprise",
+     "line3": "Groceries came in $109 under plan."
+    },
+    "caption": "I tracked every dollar for a month\n\nPick a month, see plan vs actual. Tracking is how you find the money you didn't know you had. (Example month.)\n\nComment BUDGET and I'll DM you the link to the full Paycheck to Paycheck Budget System.\nSave this for your next payday.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "I tracked every dollar for a month #shorts"
+   },
+   "pins": [
+    {
+     "link": "PAID_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "stat",
+     "headline": "I tracked every dollar for a month",
+     "big": "$83.12 left over",
+     "sub": "Groceries came in $109 under plan.",
+     "screen": "system_dashboard",
+     "crop": "0.4075,0.0990,0.1343,0.1761",
+     "id": "d08-a",
+     "title": "I tracked every dollar for a month | Paycheck Budget",
+     "description": "Pick a month, see plan vs actual. Tracking is how you find the money you didn't know you had. (Example month.) Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "I tracked every dollar for a month. $83.12 left over"
+    },
+    {
+     "id": "d08-b",
+     "template": "shot",
+     "headline": "Free paycheck budget template",
+     "sub": "Give every dollar a job · 5 minutes",
+     "screen": "starter_paycheck_plan",
+     "theme": 0,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Free paycheck budget template | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Free paycheck budget template. Give every dollar a job · 5 minutes. A free one-page budget spreadsheet for Google Sheets and Excel: plan one paycheck, list the bills due before your next payday and find your daily spending number.",
+     "alt": "Screenshot of a budget spreadsheet: free paycheck budget template."
+    },
+    {
+     "id": "d08-c",
+     "template": "list",
+     "headline": "Debt payoff tips that work",
+     "items": [
+      "List every debt with its rate",
+      "Pick snowball or avalanche",
+      "Pay minimums on all, extra on one",
+      "Roll each payoff into the next",
+      "Celebrate every payoff"
+     ],
+     "theme": 0,
+     "link": "FREE_URL",
+     "board": "Debt Payoff Plans",
+     "title": "Debt payoff tips that work | Budgeting Tips",
+     "description": "Debt payoff tips that work: List every debt with its rate; Pick snowball or avalanche; Pay minimums on all, extra on one; Roll each payoff into the next; Celebrate every payoff. Save this for your next payday. Free paycheck budget template at the link. debt payoff plan, debt snowball, debt free, budget spreadsheet.",
+     "alt": "Debt payoff tips that work: List every debt with its rate, Pick snowball or avalanche, Pay minimums on all, extra on one, Roll each payoff into the next, Celebrate every payoff"
+    }
+   ]
+  },
+  {
+   "day": 9,
+   "reel": {
+    "id": "d09",
+    "variables": {
+     "format": "tips",
+     "hook": "Living paycheck to paycheck? Start here",
+     "cta": "Send this to a friend · who gets paid every 2 weeks",
+     "ctaType": "share",
+     "music": "assets/music/m2.mp3",
+     "line1": "List every bill and its due date",
+     "line2": "Match each bill to the paycheck that pays it",
+     "line3": "Give every leftover dollar a job"
+    },
+    "caption": "Living paycheck to paycheck? Start here\n\nThree steps, one afternoon. The free starter template walks you through it.\n\nSave this for your next payday, and send it to a friend who gets paid every 2 weeks.\nWant the free budget template? Comment BUDGET and I'll DM you the link.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "Living paycheck to paycheck? Start here #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "list",
+     "headline": "Living paycheck to paycheck? Start here",
+     "items": [
+      "List every bill and its due date",
+      "Match each bill to the paycheck that pays it",
+      "Give every leftover dollar a job"
+     ],
+     "id": "d09-a",
+     "title": "Living paycheck to paycheck? Start here | Paycheck Budget",
+     "description": "Three steps, one afternoon. The free starter template walks you through it. Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Living paycheck to paycheck? Start here."
+    },
+    {
+     "id": "d09-b",
+     "template": "shot",
+     "headline": "Paycheck to paycheck budget system",
+     "sub": "10 tabs · Google Sheets & Excel",
+     "screen": "system_paycheck_planner",
+     "theme": 0,
+     "link": "PAID_URL",
+     "board": "Budget Templates & Spreadsheets",
+     "title": "Paycheck to paycheck budget system | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Paycheck to paycheck budget system. 10 tabs · Google Sheets & Excel. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: paycheck to paycheck budget system."
+    },
+    {
+     "id": "d09-c",
+     "template": "list",
+     "headline": "Zero-based budget, explained",
+     "items": [
+      "Start with take-home pay",
+      "Give every dollar a job",
+      "Include savings and fun",
+      "Income − jobs = $0",
+      "Adjust every payday"
+     ],
+     "theme": 0,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Zero-based budget, explained | Budgeting Tips",
+     "description": "Zero-based budget, explained: Start with take-home pay; Give every dollar a job; Include savings and fun; Income − jobs = $0; Adjust every payday. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Zero-based budget, explained: Start with take-home pay, Give every dollar a job, Include savings and fun, Income − jobs = $0, Adjust every payday"
+    }
+   ]
+  },
+  {
+   "day": 10,
+   "reel": {
+    "id": "d10",
+    "variables": {
+     "format": "challenge",
+     "hook": "Start with $5. End the year with $6,890.",
+     "cta": "Comment BUDGET · I'll DM you the free printable",
+     "ctaType": "comment",
+     "music": "assets/music/m1.mp3",
+     "cells": 52,
+     "start": 5,
+     "step": 5,
+     "label": "52 weeks · start at $5 · add $5 a week",
+     "line3": "Too much? The $1 version still saves $1,378."
+    },
+    "caption": "Start with $5. End the year with $6,890.\n\nThe 52-week challenge, turned up. Pick the version you can actually keep.\n\nComment BUDGET and I'll DM you the free 52-week savings challenge printable.\nSave this for your next payday.\n\n#savingschallenge #52weekchallenge #savemoney #budgeting #moneysavingtips #frugalliving",
+    "youtube_title": "Start with $5. End the year with $6,890. #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE52_URL",
+     "board": "Money Saving Challenges",
+     "theme": 0,
+     "template": "grid",
+     "headline": "Start with $5. End the year with $6,890.",
+     "cells": 52,
+     "start": 5,
+     "step": 5,
+     "label": "52 weeks · start at $5 · add $5 a week",
+     "id": "d10-a",
+     "title": "Start with $5. End the year with $6,890. | Money Saving Challenge",
+     "description": "The 52-week challenge, turned up. Pick the version you can actually keep. Save this pin for your next payday. Keywords: money saving challenge, 52 week savings challenge, how to save money.",
+     "alt": "Start with $5. End the year with $6,890.. 52 weeks · start at $5 · add $5 a week"
+    },
+    {
+     "id": "d10-b",
+     "template": "shot",
+     "headline": "Snowball or avalanche? Compare both",
+     "sub": "Debt payoff planner spreadsheet",
+     "screen": "system_debt_payoff",
+     "theme": 0,
+     "link": "PAID_URL",
+     "board": "Debt Payoff Plans",
+     "title": "Snowball or avalanche? Compare both | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Snowball or avalanche? Compare both. Debt payoff planner spreadsheet. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: snowball or avalanche? compare both."
+    },
+    {
+     "id": "d10-c",
+     "template": "list",
+     "headline": "Grocery budget tips",
+     "items": [
+      "Plan meals before you shop",
+      "Shop with a list",
+      "Buy store brands",
+      "Use what's in the pantry first",
+      "Set a weekly grocery number"
+     ],
+     "theme": 0,
+     "link": "FREE52_URL",
+     "board": "Money Saving Challenges",
+     "title": "Grocery budget tips | Budgeting Tips",
+     "description": "Grocery budget tips: Plan meals before you shop; Shop with a list; Buy store brands; Use what's in the pantry first; Set a weekly grocery number. Save this for your next payday. Free 52-week savings challenge printable at the link. money saving challenge, 52 week savings challenge, how to save money.",
+     "alt": "Grocery budget tips: Plan meals before you shop, Shop with a list, Buy store brands, Use what's in the pantry first, Set a weekly grocery number"
+    }
+   ]
+  },
+  {
+   "day": 11,
+   "reel": {
+    "id": "d11",
+    "variables": {
+     "format": "planner",
+     "hook": "Stop letting car repairs wreck your month",
+     "cta": "Comment BUDGET · I'll DM you the link",
+     "ctaType": "comment",
+     "music": "assets/music/m4.mp3",
+     "screen": "assets/screens/system_sinking_funds.png",
+     "screenRatio": 0.3879,
+     "focus": "0.7637,0.2144,0.1189,0.0601",
+     "label": "$29 a month",
+     "line1": "$405 to go, 14 months left: about $29 a month.",
+     "line2": "Then when it breaks",
+     "line3": "It's a bill, not an emergency."
+    },
+    "caption": "Stop letting car repairs wreck your month\n\nSinking funds tell you exactly how much to save each month. (Example numbers.)\n\nComment BUDGET and I'll DM you the link to the full Paycheck to Paycheck Budget System.\nSave this for your next payday.\n\n#sinkingfunds #budgetingtips #emergencyfund #moneymanagement #budgeting #savemoney",
+    "youtube_title": "Stop letting car repairs wreck your month #shorts"
+   },
+   "pins": [
+    {
+     "link": "PAID_URL",
+     "board": "Sinking Funds & Saving Tips",
+     "theme": 0,
+     "template": "stat",
+     "headline": "Stop letting car repairs wreck your month",
+     "big": "$29 a month",
+     "sub": "It's a bill, not an emergency.",
+     "screen": "system_sinking_funds",
+     "crop": "0.7301,0.1278,0.1861,0.2335",
+     "id": "d11-a",
+     "title": "Stop letting car repairs wreck your month | Sinking Funds",
+     "description": "Sinking funds tell you exactly how much to save each month. (Example numbers.) Save this pin for your next payday. Keywords: sinking funds, emergency fund, saving money tips, budget planner.",
+     "alt": "Stop letting car repairs wreck your month. $29 a month"
+    },
+    {
+     "id": "d11-b",
+     "template": "paper",
+     "headline": "Savings Challenge Pack: 11 printables",
+     "sub": "Print at home or use in GoodNotes",
+     "screen": "pack_envelopes",
+     "theme": 0,
+     "link": "PACK_URL",
+     "board": "Money Saving Challenges",
+     "title": "Savings Challenge Pack: 11 printables | Savings Challenge Printable",
+     "description": "Savings Challenge Pack: 11 printables. Print at home or use in GoodNotes. 11 printable savings trackers: 52-week challenge, reverse 52-week, 100 envelope challenge, $1,000 in 100 days, 26-paycheck challenge, $5,000 tracker, no-spend challenge and more.",
+     "alt": "Printable savings tracker page: savings challenge pack: 11 printables."
+    },
+    {
+     "id": "d11-c",
+     "template": "list",
+     "headline": "Budgeting for beginners: 5 steps",
+     "items": [
+      "Find your take-home pay",
+      "List every bill and due date",
+      "Match bills to paychecks",
+      "Plan food, gas and fun",
+      "Track for one month"
+     ],
+     "theme": 1,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Budgeting for beginners: 5 steps | Budgeting Tips",
+     "description": "Budgeting for beginners: 5 steps: Find your take-home pay; List every bill and due date; Match bills to paychecks; Plan food, gas and fun; Track for one month. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Budgeting for beginners: 5 steps: Find your take-home pay, List every bill and due date, Match bills to paychecks, Plan food, gas and fun, Track for one month"
+    }
+   ]
+  },
+  {
+   "day": 12,
+   "reel": {
+    "id": "d12",
+    "variables": {
+     "format": "math",
+     "hook": "$1,000 emergency fund in 6 months",
+     "cta": "Send this to a friend · who hates surprise bills",
+     "ctaType": "share",
+     "music": "assets/music/m3.mp3",
+     "title": "6 months · $1,000",
+     "rows": "Cancel 1 streaming app|90;Cook 2 more dinners a week|520;Sell 3 things you don't use|150;Round-ups & spare change|120;One weekend side gig|120",
+     "line2": "Total: $1,000",
+     "line3": "Small leaks, one big cushion."
+    },
+    "caption": "$1,000 emergency fund in 6 months\n\nYou don't need a raise to start an emergency fund. (Example amounts — yours will differ.)\n\nSave this for your next payday, and send it to a friend who hates surprise bills.\nWant the free budget template? Comment BUDGET and I'll DM you the link.\n\n#sinkingfunds #budgetingtips #emergencyfund #moneymanagement #budgeting #savemoney",
+    "youtube_title": "$1,000 emergency fund in 6 months #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE_URL",
+     "board": "Sinking Funds & Saving Tips",
+     "theme": 0,
+     "template": "amounts",
+     "headline": "$1,000 emergency fund in 6 months",
+     "mtitle": "6 months · $1,000",
+     "rows": [
+      [
+       "Cancel 1 streaming app",
+       90
+      ],
+      [
+       "Cook 2 more dinners a week",
+       520
+      ],
+      [
+       "Sell 3 things you don't use",
+       150
+      ],
+      [
+       "Round-ups & spare change",
+       120
+      ],
+      [
+       "One weekend side gig",
+       120
+      ]
+     ],
+     "total": "Total: $1,000",
+     "punch": "Small leaks, one big cushion.",
+     "id": "d12-a",
+     "title": "$1,000 emergency fund in 6 months | Sinking Funds",
+     "description": "You don't need a raise to start an emergency fund. (Example amounts — yours will differ.) Save this pin for your next payday. Keywords: sinking funds, emergency fund, saving money tips, budget planner.",
+     "alt": "$1,000 emergency fund in 6 months. Small leaks, one big cushion."
+    },
+    {
+     "id": "d12-b",
+     "template": "paper",
+     "headline": "Free 52-week savings challenge printable",
+     "sub": "Save $1,378 in one year",
+     "screen": "free_52week",
+     "theme": 0,
+     "link": "FREE52_URL",
+     "board": "Money Saving Challenges",
+     "title": "Free 52-week savings challenge printable | Savings Challenge Printable",
+     "description": "Free 52-week savings challenge printable. Save $1,378 in one year. A free one-page 52-week savings challenge tracker with the amount for every week and your running total. Print it or use it in GoodNotes.",
+     "alt": "Printable savings tracker page: free 52-week savings challenge printable."
+    },
+    {
+     "id": "d12-c",
+     "template": "list",
+     "headline": "Monthly bills checklist",
+     "items": [
+      "Rent or mortgage",
+      "Utilities & water",
+      "Phone & internet",
+      "Insurance",
+      "Subscriptions",
+      "Debt minimums",
+      "Childcare"
+     ],
+     "theme": 1,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Monthly bills checklist | Budgeting Tips",
+     "description": "Monthly bills checklist: Rent or mortgage; Utilities & water; Phone & internet; Insurance; Subscriptions; Debt minimums; Childcare. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Monthly bills checklist: Rent or mortgage, Utilities & water, Phone & internet, Insurance, Subscriptions, Debt minimums, Childcare"
+    }
+   ]
+  },
+  {
+   "day": 13,
+   "reel": {
+    "id": "d13",
+    "variables": {
+     "format": "tips",
+     "hook": "Your budget isn't working if…",
+     "cta": "Send this to a friend · who gets paid every 2 weeks",
+     "ctaType": "share",
+     "music": "assets/music/m1.mp3",
+     "line1": "You budget monthly but get paid every 2 weeks",
+     "line2": "You forget the once-a-year bills",
+     "line3": "There's no line for fun money"
+    },
+    "caption": "Your budget isn't working if…\n\nBudgets fail on details, not willpower. Fix these three first.\n\nSave this for your next payday, and send it to a friend who gets paid every 2 weeks.\nWant the free budget template? Comment BUDGET and I'll DM you the link.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "Your budget isn't working if… #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "list",
+     "headline": "Your budget isn't working if…",
+     "items": [
+      "You budget monthly but get paid every 2 weeks",
+      "You forget the once-a-year bills",
+      "There's no line for fun money"
+     ],
+     "id": "d13-a",
+     "title": "Your budget isn't working if… | Paycheck Budget",
+     "description": "Budgets fail on details, not willpower. Fix these three first. Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Your budget isn't working if…."
+    },
+    {
+     "id": "d13-b",
+     "template": "shot",
+     "headline": "Which paycheck pays which bill?",
+     "sub": "Paycheck Planner · Google Sheets & Excel",
+     "screen": "system_paycheck_planner",
+     "theme": 1,
+     "link": "PAID_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Which paycheck pays which bill? | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Which paycheck pays which bill? Paycheck Planner · Google Sheets & Excel. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: which paycheck pays which bill?."
+    },
+    {
+     "id": "d13-c",
+     "template": "list",
+     "headline": "10 sinking funds to start",
+     "items": [
+      "Car repairs",
+      "Gifts & holidays",
+      "Medical",
+      "Home repairs",
+      "Pet care",
+      "Vacation",
+      "Back to school",
+      "Annual subscriptions",
+      "Clothing",
+      "Car insurance"
+     ],
+     "theme": 1,
+     "link": "FREE_URL",
+     "board": "Sinking Funds & Saving Tips",
+     "title": "10 sinking funds to start | Budgeting Tips",
+     "description": "10 sinking funds to start: Car repairs; Gifts & holidays; Medical; Home repairs; Pet care; Vacation; Back to school; Annual subscriptions; Clothing; Car insurance. Save this for your next payday. Free paycheck budget template at the link. sinking funds, emergency fund, saving money tips, budget planner.",
+     "alt": "10 sinking funds to start: Car repairs, Gifts & holidays, Medical, Home repairs, Pet care, Vacation, Back to school, Annual subscriptions, Clothing, Car insurance"
+    }
+   ]
+  },
+  {
+   "day": 14,
+   "reel": {
+    "id": "d14",
+    "variables": {
+     "format": "planner",
+     "hook": "Same paycheck. Totally different month.",
+     "cta": "Comment BUDGET · I'll DM you the link",
+     "ctaType": "comment",
+     "music": "assets/music/m2.mp3",
+     "screen": "assets/screens/system_paycheck_planner.png",
+     "screenRatio": 0.6566,
+     "focus": "0.8769,0.5924,0.0432,0.0790",
+     "label": "99% of paycheck #2 goes to bills",
+     "line1": "Paycheck #1: 43% to bills. Paycheck #2: 99%.",
+     "line2": "Balance them",
+     "line3": "Move one big bill to paycheck #1."
+    },
+    "caption": "Same paycheck. Totally different month.\n\nTwo equal paychecks can feel completely different. Here's why. (Example numbers.)\n\nComment BUDGET and I'll DM you the link to the full Paycheck to Paycheck Budget System.\nSave this for your next payday.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "Same paycheck. Totally different month. #shorts"
+   },
+   "pins": [
+    {
+     "link": "PAID_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "stat",
+     "headline": "Same paycheck. Totally different month.",
+     "big": "99% of paycheck #2 goes to bills",
+     "sub": "Move one big bill to paycheck #1.",
+     "screen": "system_paycheck_planner",
+     "crop": "0.8425,0.5400,0.1119,0.1838",
+     "id": "d14-a",
+     "title": "Same paycheck. Totally different month. | Paycheck Budget",
+     "description": "Two equal paychecks can feel completely different. Here's why. (Example numbers.) Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Same paycheck. Totally different month.. 99% of paycheck #2 goes to bills"
+    },
+    {
+     "id": "d14-b",
+     "template": "shot",
+     "headline": "See your debt-free date",
+     "sub": "Debt snowball & avalanche spreadsheet",
+     "screen": "system_debt_payoff",
+     "theme": 1,
+     "link": "PAID_URL",
+     "board": "Debt Payoff Plans",
+     "title": "See your debt-free date | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "See your debt-free date. Debt snowball & avalanche spreadsheet. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: see your debt-free date."
+    },
+    {
+     "id": "d14-c",
+     "template": "list",
+     "headline": "Biweekly budget tips",
+     "items": [
+      "Budget per paycheck, not per month",
+      "Know your 3-paycheck months",
+      "Split big bills across both checks",
+      "Save the 3rd paycheck"
+     ],
+     "theme": 1,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Biweekly budget tips | Budgeting Tips",
+     "description": "Biweekly budget tips: Budget per paycheck, not per month; Know your 3-paycheck months; Split big bills across both checks; Save the 3rd paycheck. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Biweekly budget tips: Budget per paycheck, not per month, Know your 3-paycheck months, Split big bills across both checks, Save the 3rd paycheck"
+    }
+   ]
+  },
+  {
+   "day": 15,
+   "reel": {
+    "id": "d15",
+    "variables": {
+     "format": "tips",
+     "hook": "Snowball vs avalanche in 15 seconds",
+     "cta": "Send this to a friend · who's paying off debt",
+     "ctaType": "share",
+     "music": "assets/music/m4.mp3",
+     "line1": "Snowball: smallest balance first. Fast wins.",
+     "line2": "Avalanche: highest interest first. Saves the most.",
+     "line3": "The best one is the one you'll stick with"
+    },
+    "caption": "Snowball vs avalanche in 15 seconds\n\nBoth work. The spreadsheet lets you switch and compare your debt-free date.\n\nSave this for your next payday, and send it to a friend who's paying off debt.\nWant the full budget system? Comment BUDGET and I'll DM you the link.\n\n#debtfree #debtpayoff #snowballmethod #budgeting #moneytips #personalfinance #debtfreejourney",
+    "youtube_title": "Snowball vs avalanche in 15 seconds #shorts"
+   },
+   "pins": [
+    {
+     "link": "PAID_URL",
+     "board": "Debt Payoff Plans",
+     "theme": 0,
+     "template": "list",
+     "headline": "Snowball vs avalanche in 15 seconds",
+     "items": [
+      "Snowball: smallest balance first. Fast wins.",
+      "Avalanche: highest interest first. Saves the most.",
+      "The best one is the one you'll stick with"
+     ],
+     "id": "d15-a",
+     "title": "Snowball vs avalanche in 15 seconds | Debt Payoff Plan",
+     "description": "Both work. The spreadsheet lets you switch and compare your debt-free date. Save this pin for your next payday. Keywords: debt payoff plan, debt snowball, debt free, budget spreadsheet.",
+     "alt": "Snowball vs avalanche in 15 seconds."
+    },
+    {
+     "id": "d15-b",
+     "template": "shot",
+     "headline": "Budget spreadsheet with a dashboard",
+     "sub": "Plan vs actual, every month",
+     "screen": "system_dashboard",
+     "theme": 1,
+     "link": "PAID_URL",
+     "board": "Budget Templates & Spreadsheets",
+     "title": "Budget spreadsheet with a dashboard | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Budget spreadsheet with a dashboard. Plan vs actual, every month. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: budget spreadsheet with a dashboard."
+    },
+    {
+     "id": "d15-c",
+     "template": "list",
+     "headline": "How to stop living paycheck to paycheck",
+     "items": [
+      "Build a $500 starter buffer",
+      "Match bills to paychecks",
+      "Cut one unused subscription",
+      "Start one sinking fund",
+      "Track spending weekly"
+     ],
+     "theme": 1,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "How to stop living paycheck to paycheck | Budgeting Tips",
+     "description": "How to stop living paycheck to paycheck: Build a $500 starter buffer; Match bills to paychecks; Cut one unused subscription; Start one sinking fund; Track spending weekly. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "How to stop living paycheck to paycheck: Build a $500 starter buffer, Match bills to paychecks, Cut one unused subscription, Start one sinking fund, Track spending weekly"
+    }
+   ]
+  },
+  {
+   "day": 16,
+   "reel": {
+    "id": "d16",
+    "variables": {
+     "format": "math",
+     "hook": "Small daily spends, added up for a year",
+     "cta": "Send this to a friend · who gets paid every 2 weeks",
+     "ctaType": "share",
+     "music": "assets/music/m3.mp3",
+     "title": "1 year",
+     "rows": "Coffee · $5 × 5 days|1300;Lunch out · $12 × 3 days|1872;Delivery fees · $8 × 2|832;Unused subscriptions|300",
+     "line2": "Total: $4,304",
+     "line3": "Not 'never'. Just on purpose."
+    },
+    "caption": "Small daily spends, added up for a year\n\nSpend on what you love, cut what you don't notice. Weekly amounts × 52 weeks.\n\nSave this for your next payday, and send it to a friend who gets paid every 2 weeks.\nWant the free budget template? Comment BUDGET and I'll DM you the link.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "Small daily spends, added up for a year #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "amounts",
+     "headline": "Small daily spends, added up for a year",
+     "mtitle": "1 year",
+     "rows": [
+      [
+       "Coffee · $5 × 5 days",
+       1300
+      ],
+      [
+       "Lunch out · $12 × 3 days",
+       1872
+      ],
+      [
+       "Delivery fees · $8 × 2",
+       832
+      ],
+      [
+       "Unused subscriptions",
+       300
+      ]
+     ],
+     "total": "Total: $4,304",
+     "punch": "Not 'never'. Just on purpose.",
+     "id": "d16-a",
+     "title": "Small daily spends, added up for a year | Paycheck Budget",
+     "description": "Spend on what you love, cut what you don't notice. Weekly amounts × 52 weeks. Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Small daily spends, added up for a year. Not 'never'. Just on purpose."
+    },
+    {
+     "id": "d16-b",
+     "template": "shot",
+     "headline": "Plan all 12 months in 10 minutes",
+     "sub": "Monthly budget template",
+     "screen": "system_budget",
+     "theme": 1,
+     "link": "PAID_URL",
+     "board": "Budget Templates & Spreadsheets",
+     "title": "Plan all 12 months in 10 minutes | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Plan all 12 months in 10 minutes. Monthly budget template. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: plan all 12 months in 10 minutes."
+    },
+    {
+     "id": "d16-c",
+     "template": "list",
+     "headline": "Payday checklist",
+     "items": [
+      "Pay bills due before next check",
+      "Move savings first",
+      "Add extra debt payment",
+      "Refill sinking funds",
+      "Set your daily spending number"
+     ],
+     "theme": 1,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Payday checklist | Budgeting Tips",
+     "description": "Payday checklist: Pay bills due before next check; Move savings first; Add extra debt payment; Refill sinking funds; Set your daily spending number. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Payday checklist: Pay bills due before next check, Move savings first, Add extra debt payment, Refill sinking funds, Set your daily spending number"
+    }
+   ]
+  },
+  {
+   "day": 17,
+   "reel": {
+    "id": "d17",
+    "variables": {
+     "format": "challenge",
+     "hook": "The 100 envelope challenge = $5,050",
+     "cta": "Comment BUDGET · I'll DM you the free printable",
+     "ctaType": "comment",
+     "music": "assets/music/m2.mp3",
+     "cells": 100,
+     "start": 1,
+     "step": 1,
+     "label": "100 envelopes · $1 to $100",
+     "line3": "One envelope a day, or two a week."
+    },
+    "caption": "The 100 envelope challenge = $5,050\n\nNumber 100 envelopes, pull one at random, save that amount. $5,050 when you finish.\n\nComment BUDGET and I'll DM you the free 52-week savings challenge printable.\nSave this for your next payday.\n\n#savingschallenge #52weekchallenge #savemoney #budgeting #moneysavingtips #frugalliving",
+    "youtube_title": "The 100 envelope challenge = $5,050 #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE52_URL",
+     "board": "Money Saving Challenges",
+     "theme": 0,
+     "template": "grid",
+     "headline": "The 100 envelope challenge = $5,050",
+     "cells": 100,
+     "start": 1,
+     "step": 1,
+     "label": "100 envelopes · $1 to $100",
+     "id": "d17-a",
+     "title": "The 100 envelope challenge = $5,050 | Money Saving Challenge",
+     "description": "Number 100 envelopes, pull one at random, save that amount. $5,050 when you finish. Save this pin for your next payday. Keywords: money saving challenge, 52 week savings challenge, how to save money.",
+     "alt": "The 100 envelope challenge = $5,050. 100 envelopes · $1 to $100"
+    },
+    {
+     "id": "d17-b",
+     "template": "shot",
+     "headline": "Sinking funds tracker that does the math",
+     "sub": "How much to save each month",
+     "screen": "system_sinking_funds",
+     "theme": 1,
+     "link": "PAID_URL",
+     "board": "Sinking Funds & Saving Tips",
+     "title": "Sinking funds tracker that does the math | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Sinking funds tracker that does the math. How much to save each month. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: sinking funds tracker that does the math."
+    },
+    {
+     "id": "d17-c",
+     "template": "list",
+     "headline": "Money saving challenges to try",
+     "items": [
+      "52-week challenge · $1,378",
+      "100 envelope challenge · $5,050",
+      "$1,000 in 100 days",
+      "No-spend weekend",
+      "Pantry challenge week"
+     ],
+     "theme": 1,
+     "link": "FREE52_URL",
+     "board": "Money Saving Challenges",
+     "title": "Money saving challenges to try | Budgeting Tips",
+     "description": "Money saving challenges to try: 52-week challenge · $1,378; 100 envelope challenge · $5,050; $1,000 in 100 days; No-spend weekend; Pantry challenge week. Save this for your next payday. Free 52-week savings challenge printable at the link. money saving challenge, 52 week savings challenge, how to save money.",
+     "alt": "Money saving challenges to try: 52-week challenge · $1,378, 100 envelope challenge · $5,050, $1,000 in 100 days, No-spend weekend, Pantry challenge week"
+    }
+   ]
+  },
+  {
+   "day": 18,
+   "reel": {
+    "id": "d18",
+    "variables": {
+     "format": "planner",
+     "hook": "Plan your whole year in 10 minutes",
+     "cta": "Comment BUDGET · I'll DM you the link",
+     "ctaType": "comment",
+     "music": "assets/music/m1.mp3",
+     "screen": "assets/screens/system_budget.png",
+     "screenRatio": 0.6418,
+     "focus": "0.8383,0.6400,0.0357,0.0400",
+     "label": "December gifts: $250",
+     "line1": "Fill in January. The other 11 months copy it.",
+     "line2": "Then change only what's different",
+     "line3": "Like December gifts."
+    },
+    "caption": "Plan your whole year in 10 minutes\n\nA 12-month budget without retyping 12 months. (Example numbers.)\n\nComment BUDGET and I'll DM you the link to the full Paycheck to Paycheck Budget System.\nSave this for your next payday.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "Plan your whole year in 10 minutes #shorts"
+   },
+   "pins": [
+    {
+     "link": "PAID_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "stat",
+     "headline": "Plan your whole year in 10 minutes",
+     "big": "December gifts: $250",
+     "sub": "Like December gifts.",
+     "screen": "system_budget",
+     "crop": null,
+     "id": "d18-a",
+     "title": "Plan your whole year in 10 minutes | Paycheck Budget",
+     "description": "A 12-month budget without retyping 12 months. (Example numbers.) Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Plan your whole year in 10 minutes. December gifts: $250"
+    },
+    {
+     "id": "d18-b",
+     "template": "shot",
+     "headline": "52-week savings challenge tracker",
+     "sub": "Mark a week, watch it grow",
+     "screen": "system_challenge",
+     "theme": 1,
+     "link": "PAID_URL",
+     "board": "Money Saving Challenges",
+     "title": "52-week savings challenge tracker | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "52-week savings challenge tracker. Mark a week, watch it grow. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: 52-week savings challenge tracker."
+    },
+    {
+     "id": "d18-c",
+     "template": "list",
+     "headline": "Debt payoff tips that work",
+     "items": [
+      "List every debt with its rate",
+      "Pick snowball or avalanche",
+      "Pay minimums on all, extra on one",
+      "Roll each payoff into the next",
+      "Celebrate every payoff"
+     ],
+     "theme": 1,
+     "link": "FREE_URL",
+     "board": "Debt Payoff Plans",
+     "title": "Debt payoff tips that work | Budgeting Tips",
+     "description": "Debt payoff tips that work: List every debt with its rate; Pick snowball or avalanche; Pay minimums on all, extra on one; Roll each payoff into the next; Celebrate every payoff. Save this for your next payday. Free paycheck budget template at the link. debt payoff plan, debt snowball, debt free, budget spreadsheet.",
+     "alt": "Debt payoff tips that work: List every debt with its rate, Pick snowball or avalanche, Pay minimums on all, extra on one, Roll each payoff into the next, Celebrate every payoff"
+    }
+   ]
+  },
+  {
+   "day": 19,
+   "reel": {
+    "id": "d19",
+    "variables": {
+     "format": "tips",
+     "hook": "My 10-minute payday routine",
+     "cta": "Send this to a friend · who gets paid every 2 weeks",
+     "ctaType": "share",
+     "music": "assets/music/m4.mp3",
+     "line1": "Pay the bills due before the next check",
+     "line2": "Move savings first, not last",
+     "line3": "Split what's left by the days until payday"
+    },
+    "caption": "My 10-minute payday routine\n\nSame routine every payday. That's the whole secret.\n\nSave this for your next payday, and send it to a friend who gets paid every 2 weeks.\nWant the free budget template? Comment BUDGET and I'll DM you the link.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "My 10-minute payday routine #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "list",
+     "headline": "My 10-minute payday routine",
+     "items": [
+      "Pay the bills due before the next check",
+      "Move savings first, not last",
+      "Split what's left by the days until payday"
+     ],
+     "id": "d19-a",
+     "title": "My 10-minute payday routine | Paycheck Budget",
+     "description": "Same routine every payday. That's the whole secret. Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "My 10-minute payday routine."
+    },
+    {
+     "id": "d19-b",
+     "template": "shot",
+     "headline": "Your whole year on one screen",
+     "sub": "Annual budget summary",
+     "screen": "system_annual",
+     "theme": 1,
+     "link": "PAID_URL",
+     "board": "Budget Templates & Spreadsheets",
+     "title": "Your whole year on one screen | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Your whole year on one screen. Annual budget summary. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: your whole year on one screen."
+    },
+    {
+     "id": "d19-c",
+     "template": "list",
+     "headline": "Zero-based budget, explained",
+     "items": [
+      "Start with take-home pay",
+      "Give every dollar a job",
+      "Include savings and fun",
+      "Income − jobs = $0",
+      "Adjust every payday"
+     ],
+     "theme": 1,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Zero-based budget, explained | Budgeting Tips",
+     "description": "Zero-based budget, explained: Start with take-home pay; Give every dollar a job; Include savings and fun; Income − jobs = $0; Adjust every payday. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Zero-based budget, explained: Start with take-home pay, Give every dollar a job, Include savings and fun, Income − jobs = $0, Adjust every payday"
+    }
+   ]
+  },
+  {
+   "day": 20,
+   "reel": {
+    "id": "d20",
+    "variables": {
+     "format": "math",
+     "hook": "My daily spending number",
+     "cta": "Send this to a friend · who gets paid every 2 weeks",
+     "ctaType": "share",
+     "music": "assets/music/m2.mp3",
+     "title": "Until next payday",
+     "rows": "Groceries|220;Gas|90;Household|40;Fun|60",
+     "line2": "$410 ÷ 14 days",
+     "line3": "$29 a day until payday."
+    },
+    "caption": "My daily spending number\n\nOne number a day is easier than ten categories. The free starter template calculates it for you.\n\nSave this for your next payday, and send it to a friend who gets paid every 2 weeks.\nWant the free budget template? Comment BUDGET and I'll DM you the link.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "My daily spending number #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "amounts",
+     "headline": "My daily spending number",
+     "mtitle": "Until next payday",
+     "rows": [
+      [
+       "Groceries",
+       220
+      ],
+      [
+       "Gas",
+       90
+      ],
+      [
+       "Household",
+       40
+      ],
+      [
+       "Fun",
+       60
+      ]
+     ],
+     "total": "$410 ÷ 14 days",
+     "punch": "$29 a day until payday.",
+     "id": "d20-a",
+     "title": "My daily spending number | Paycheck Budget",
+     "description": "One number a day is easier than ten categories. The free starter template calculates it for you. Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "My daily spending number. $29 a day until payday."
+    },
+    {
+     "id": "d20-b",
+     "template": "shot",
+     "headline": "Free paycheck budget template",
+     "sub": "Give every dollar a job · 5 minutes",
+     "screen": "starter_paycheck_plan",
+     "theme": 1,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Free paycheck budget template | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Free paycheck budget template. Give every dollar a job · 5 minutes. A free one-page budget spreadsheet for Google Sheets and Excel: plan one paycheck, list the bills due before your next payday and find your daily spending number.",
+     "alt": "Screenshot of a budget spreadsheet: free paycheck budget template."
+    },
+    {
+     "id": "d20-c",
+     "template": "list",
+     "headline": "Grocery budget tips",
+     "items": [
+      "Plan meals before you shop",
+      "Shop with a list",
+      "Buy store brands",
+      "Use what's in the pantry first",
+      "Set a weekly grocery number"
+     ],
+     "theme": 1,
+     "link": "FREE52_URL",
+     "board": "Money Saving Challenges",
+     "title": "Grocery budget tips | Budgeting Tips",
+     "description": "Grocery budget tips: Plan meals before you shop; Shop with a list; Buy store brands; Use what's in the pantry first; Set a weekly grocery number. Save this for your next payday. Free 52-week savings challenge printable at the link. money saving challenge, 52 week savings challenge, how to save money.",
+     "alt": "Grocery budget tips: Plan meals before you shop, Shop with a list, Buy store brands, Use what's in the pantry first, Set a weekly grocery number"
+    }
+   ]
+  },
+  {
+   "day": 21,
+   "reel": {
+    "id": "d21",
+    "variables": {
+     "format": "planner",
+     "hook": "The free budget I use every payday",
+     "cta": "Comment BUDGET · I'll DM you the free template",
+     "ctaType": "comment",
+     "music": "assets/music/m3.mp3",
+     "screen": "assets/screens/starter_paycheck_plan.png",
+     "screenRatio": 0.6669,
+     "focus": "0.5785,0.2750,0.2711,0.0809",
+     "label": "$0 left = every dollar has a job",
+     "line1": "Pay date, bills, plan. Five minutes.",
+     "line2": "The goal",
+     "line3": "Left to give a job: $0."
+    },
+    "caption": "The free budget I use every payday\n\nThe Paycheck Budget Starter is free. (Example numbers.)\n\nComment BUDGET and I'll DM you the free paycheck budget template.\nSave this for your next payday.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "The free budget I use every payday #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "stat",
+     "headline": "The free budget I use every payday",
+     "big": "$0 left = every dollar has a job",
+     "sub": "Left to give a job: $0.",
+     "screen": "starter_paycheck_plan",
+     "crop": "0.5419,0.2201,0.3444,0.1908",
+     "id": "d21-a",
+     "title": "The free budget I use every payday | Paycheck Budget",
+     "description": "The Paycheck Budget Starter is free. (Example numbers.) Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "The free budget I use every payday. $0 left = every dollar has a job"
+    },
+    {
+     "id": "d21-b",
+     "template": "shot",
+     "headline": "Paycheck to paycheck budget system",
+     "sub": "10 tabs · Google Sheets & Excel",
+     "screen": "system_paycheck_planner",
+     "theme": 1,
+     "link": "PAID_URL",
+     "board": "Budget Templates & Spreadsheets",
+     "title": "Paycheck to paycheck budget system | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Paycheck to paycheck budget system. 10 tabs · Google Sheets & Excel. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: paycheck to paycheck budget system."
+    },
+    {
+     "id": "d21-c",
+     "template": "list",
+     "headline": "Budgeting for beginners: 5 steps",
+     "items": [
+      "Find your take-home pay",
+      "List every bill and due date",
+      "Match bills to paychecks",
+      "Plan food, gas and fun",
+      "Track for one month"
+     ],
+     "theme": 2,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Budgeting for beginners: 5 steps | Budgeting Tips",
+     "description": "Budgeting for beginners: 5 steps: Find your take-home pay; List every bill and due date; Match bills to paychecks; Plan food, gas and fun; Track for one month. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Budgeting for beginners: 5 steps: Find your take-home pay, List every bill and due date, Match bills to paychecks, Plan food, gas and fun, Track for one month"
+    }
+   ]
+  },
+  {
+   "day": 22,
+   "reel": {
+    "id": "d22",
+    "variables": {
+     "format": "tips",
+     "hook": "Bills people forget to budget for",
+     "cta": "Send this to a friend · who hates surprise bills",
+     "ctaType": "share",
+     "music": "assets/music/m1.mp3",
+     "line1": "Car registration and inspection",
+     "line2": "Yearly subscriptions and renewals",
+     "line3": "Birthdays, holidays and back-to-school"
+    },
+    "caption": "Bills people forget to budget for\n\nIf it happens every year, it's not a surprise. Give it a sinking fund.\n\nSave this for your next payday, and send it to a friend who hates surprise bills.\nWant the free budget template? Comment BUDGET and I'll DM you the link.\n\n#sinkingfunds #budgetingtips #emergencyfund #moneymanagement #budgeting #savemoney",
+    "youtube_title": "Bills people forget to budget for #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE_URL",
+     "board": "Sinking Funds & Saving Tips",
+     "theme": 0,
+     "template": "list",
+     "headline": "Bills people forget to budget for",
+     "items": [
+      "Car registration and inspection",
+      "Yearly subscriptions and renewals",
+      "Birthdays, holidays and back-to-school"
+     ],
+     "id": "d22-a",
+     "title": "Bills people forget to budget for | Sinking Funds",
+     "description": "If it happens every year, it's not a surprise. Give it a sinking fund. Save this pin for your next payday. Keywords: sinking funds, emergency fund, saving money tips, budget planner.",
+     "alt": "Bills people forget to budget for."
+    },
+    {
+     "id": "d22-b",
+     "template": "shot",
+     "headline": "Snowball or avalanche? Compare both",
+     "sub": "Debt payoff planner spreadsheet",
+     "screen": "system_debt_payoff",
+     "theme": 1,
+     "link": "PAID_URL",
+     "board": "Debt Payoff Plans",
+     "title": "Snowball or avalanche? Compare both | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Snowball or avalanche? Compare both. Debt payoff planner spreadsheet. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: snowball or avalanche? compare both."
+    },
+    {
+     "id": "d22-c",
+     "template": "list",
+     "headline": "Monthly bills checklist",
+     "items": [
+      "Rent or mortgage",
+      "Utilities & water",
+      "Phone & internet",
+      "Insurance",
+      "Subscriptions",
+      "Debt minimums",
+      "Childcare"
+     ],
+     "theme": 2,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Monthly bills checklist | Budgeting Tips",
+     "description": "Monthly bills checklist: Rent or mortgage; Utilities & water; Phone & internet; Insurance; Subscriptions; Debt minimums; Childcare. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Monthly bills checklist: Rent or mortgage, Utilities & water, Phone & internet, Insurance, Subscriptions, Debt minimums, Childcare"
+    }
+   ]
+  },
+  {
+   "day": 23,
+   "reel": {
+    "id": "d23",
+    "variables": {
+     "format": "math",
+     "hook": "Debt snowball order, real example",
+     "cta": "Send this to a friend · who's paying off debt",
+     "ctaType": "share",
+     "music": "assets/music/m4.mp3",
+     "title": "Pay in this order",
+     "rows": "1 · Medical bill|600;2 · Credit card B|850;3 · Credit card A|2400;4 · Car loan|9800;5 · Student loan|14500",
+     "line2": "Total: $28,150",
+     "line3": "Each payoff rolls into the next."
+    },
+    "caption": "Debt snowball order, real example\n\nSmallest balance first. When one is gone, its payment rolls into the next. (Example debts.)\n\nSave this for your next payday, and send it to a friend who's paying off debt.\nWant the full budget system? Comment BUDGET and I'll DM you the link.\n\n#debtfree #debtpayoff #snowballmethod #budgeting #moneytips #personalfinance #debtfreejourney",
+    "youtube_title": "Debt snowball order, real example #shorts"
+   },
+   "pins": [
+    {
+     "link": "PAID_URL",
+     "board": "Debt Payoff Plans",
+     "theme": 0,
+     "template": "amounts",
+     "headline": "Debt snowball order, real example",
+     "mtitle": "Pay in this order",
+     "rows": [
+      [
+       "1 · Medical bill",
+       600
+      ],
+      [
+       "2 · Credit card B",
+       850
+      ],
+      [
+       "3 · Credit card A",
+       2400
+      ],
+      [
+       "4 · Car loan",
+       9800
+      ],
+      [
+       "5 · Student loan",
+       14500
+      ]
+     ],
+     "total": "Total: $28,150",
+     "punch": "Each payoff rolls into the next.",
+     "id": "d23-a",
+     "title": "Debt snowball order, real example | Debt Payoff Plan",
+     "description": "Smallest balance first. When one is gone, its payment rolls into the next. (Example debts.) Save this pin for your next payday. Keywords: debt payoff plan, debt snowball, debt free, budget spreadsheet.",
+     "alt": "Debt snowball order, real example. Each payoff rolls into the next."
+    },
+    {
+     "id": "d23-b",
+     "template": "paper",
+     "headline": "Savings Challenge Pack: 11 printables",
+     "sub": "Print at home or use in GoodNotes",
+     "screen": "pack_envelopes",
+     "theme": 1,
+     "link": "PACK_URL",
+     "board": "Money Saving Challenges",
+     "title": "Savings Challenge Pack: 11 printables | Savings Challenge Printable",
+     "description": "Savings Challenge Pack: 11 printables. Print at home or use in GoodNotes. 11 printable savings trackers: 52-week challenge, reverse 52-week, 100 envelope challenge, $1,000 in 100 days, 26-paycheck challenge, $5,000 tracker, no-spend challenge and more.",
+     "alt": "Printable savings tracker page: savings challenge pack: 11 printables."
+    },
+    {
+     "id": "d23-c",
+     "template": "list",
+     "headline": "10 sinking funds to start",
+     "items": [
+      "Car repairs",
+      "Gifts & holidays",
+      "Medical",
+      "Home repairs",
+      "Pet care",
+      "Vacation",
+      "Back to school",
+      "Annual subscriptions",
+      "Clothing",
+      "Car insurance"
+     ],
+     "theme": 2,
+     "link": "FREE_URL",
+     "board": "Sinking Funds & Saving Tips",
+     "title": "10 sinking funds to start | Budgeting Tips",
+     "description": "10 sinking funds to start: Car repairs; Gifts & holidays; Medical; Home repairs; Pet care; Vacation; Back to school; Annual subscriptions; Clothing; Car insurance. Save this for your next payday. Free paycheck budget template at the link. sinking funds, emergency fund, saving money tips, budget planner.",
+     "alt": "10 sinking funds to start: Car repairs, Gifts & holidays, Medical, Home repairs, Pet care, Vacation, Back to school, Annual subscriptions, Clothing, Car insurance"
+    }
+   ]
+  },
+  {
+   "day": 24,
+   "reel": {
+    "id": "d24",
+    "variables": {
+     "format": "challenge",
+     "hook": "$1,000 in 100 days",
+     "cta": "Comment BUDGET · I'll DM you the free printable",
+     "ctaType": "comment",
+     "music": "assets/music/m2.mp3",
+     "cells": 100,
+     "start": 10,
+     "step": 0,
+     "label": "100 days · $10 a day",
+     "line3": "Skip a day? Double up tomorrow."
+    },
+    "caption": "$1,000 in 100 days\n\n$10 a day for 100 days. Tick a box every time.\n\nComment BUDGET and I'll DM you the free 52-week savings challenge printable.\nSave this for your next payday.\n\n#savingschallenge #52weekchallenge #savemoney #budgeting #moneysavingtips #frugalliving",
+    "youtube_title": "$1,000 in 100 days #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE52_URL",
+     "board": "Money Saving Challenges",
+     "theme": 0,
+     "template": "grid",
+     "headline": "$1,000 in 100 days",
+     "cells": 100,
+     "start": 10,
+     "step": 0,
+     "label": "100 days · $10 a day",
+     "id": "d24-a",
+     "title": "$1,000 in 100 days | Money Saving Challenge",
+     "description": "$10 a day for 100 days. Tick a box every time. Save this pin for your next payday. Keywords: money saving challenge, 52 week savings challenge, how to save money.",
+     "alt": "$1,000 in 100 days. 100 days · $10 a day"
+    },
+    {
+     "id": "d24-b",
+     "template": "paper",
+     "headline": "Free 52-week savings challenge printable",
+     "sub": "Save $1,378 in one year",
+     "screen": "free_52week",
+     "theme": 1,
+     "link": "FREE52_URL",
+     "board": "Money Saving Challenges",
+     "title": "Free 52-week savings challenge printable | Savings Challenge Printable",
+     "description": "Free 52-week savings challenge printable. Save $1,378 in one year. A free one-page 52-week savings challenge tracker with the amount for every week and your running total. Print it or use it in GoodNotes.",
+     "alt": "Printable savings tracker page: free 52-week savings challenge printable."
+    },
+    {
+     "id": "d24-c",
+     "template": "list",
+     "headline": "Biweekly budget tips",
+     "items": [
+      "Budget per paycheck, not per month",
+      "Know your 3-paycheck months",
+      "Split big bills across both checks",
+      "Save the 3rd paycheck"
+     ],
+     "theme": 2,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Biweekly budget tips | Budgeting Tips",
+     "description": "Biweekly budget tips: Budget per paycheck, not per month; Know your 3-paycheck months; Split big bills across both checks; Save the 3rd paycheck. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Biweekly budget tips: Budget per paycheck, not per month, Know your 3-paycheck months, Split big bills across both checks, Save the 3rd paycheck"
+    }
+   ]
+  },
+  {
+   "day": 25,
+   "reel": {
+    "id": "d25",
+    "variables": {
+     "format": "planner",
+     "hook": "Where did my money go this year?",
+     "cta": "Comment BUDGET · I'll DM you the link",
+     "ctaType": "comment",
+     "music": "assets/music/m3.mp3",
+     "screen": "assets/screens/system_annual.png",
+     "screenRatio": 0.6391,
+     "focus": "0.0092,0.4554,0.3831,0.0414",
+     "label": "Groceries: +$102 in February",
+     "line1": "Every category, every month, one screen.",
+     "line2": "Spot the leak",
+     "line3": "Groceries jumped from $411 to $513."
+    },
+    "caption": "Where did my money go this year?\n\nThe Annual Summary fills itself from your transactions. (Example numbers.)\n\nComment BUDGET and I'll DM you the link to the full Paycheck to Paycheck Budget System.\nSave this for your next payday.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "Where did my money go this year? #shorts"
+   },
+   "pins": [
+    {
+     "link": "PAID_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "stat",
+     "headline": "Where did my money go this year?",
+     "big": "Groceries: +$102 in February",
+     "sub": "Groceries jumped from $411 to $513.",
+     "screen": "system_annual",
+     "crop": "0.0000,0.4024,0.4262,0.1473",
+     "id": "d25-a",
+     "title": "Where did my money go this year? | Paycheck Budget",
+     "description": "The Annual Summary fills itself from your transactions. (Example numbers.) Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Where did my money go this year?. Groceries: +$102 in February"
+    },
+    {
+     "id": "d25-b",
+     "template": "shot",
+     "headline": "Which paycheck pays which bill?",
+     "sub": "Paycheck Planner · Google Sheets & Excel",
+     "screen": "system_paycheck_planner",
+     "theme": 2,
+     "link": "PAID_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Which paycheck pays which bill? | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Which paycheck pays which bill? Paycheck Planner · Google Sheets & Excel. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: which paycheck pays which bill?."
+    },
+    {
+     "id": "d25-c",
+     "template": "list",
+     "headline": "How to stop living paycheck to paycheck",
+     "items": [
+      "Build a $500 starter buffer",
+      "Match bills to paychecks",
+      "Cut one unused subscription",
+      "Start one sinking fund",
+      "Track spending weekly"
+     ],
+     "theme": 2,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "How to stop living paycheck to paycheck | Budgeting Tips",
+     "description": "How to stop living paycheck to paycheck: Build a $500 starter buffer; Match bills to paychecks; Cut one unused subscription; Start one sinking fund; Track spending weekly. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "How to stop living paycheck to paycheck: Build a $500 starter buffer, Match bills to paychecks, Cut one unused subscription, Start one sinking fund, Track spending weekly"
+    }
+   ]
+  },
+  {
+   "day": 26,
+   "reel": {
+    "id": "d26",
+    "variables": {
+     "format": "tips",
+     "hook": "Paid every 2 weeks? Read this",
+     "cta": "Send this to a friend · who gets paid every 2 weeks",
+     "ctaType": "share",
+     "music": "assets/music/m4.mp3",
+     "line1": "You get 26 paychecks a year, not 24",
+     "line2": "Two months a year have three paychecks",
+     "line3": "Budget on two. The third is a bonus."
+    },
+    "caption": "Paid every 2 weeks? Read this\n\nBiweekly pay has a built-in bonus. Plan for it before it disappears.\n\nSave this for your next payday, and send it to a friend who gets paid every 2 weeks.\nWant the free budget template? Comment BUDGET and I'll DM you the link.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "Paid every 2 weeks? Read this #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "list",
+     "headline": "Paid every 2 weeks? Read this",
+     "items": [
+      "You get 26 paychecks a year, not 24",
+      "Two months a year have three paychecks",
+      "Budget on two. The third is a bonus."
+     ],
+     "id": "d26-a",
+     "title": "Paid every 2 weeks? Read this | Paycheck Budget",
+     "description": "Biweekly pay has a built-in bonus. Plan for it before it disappears. Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Paid every 2 weeks? Read this."
+    },
+    {
+     "id": "d26-b",
+     "template": "shot",
+     "headline": "See your debt-free date",
+     "sub": "Debt snowball & avalanche spreadsheet",
+     "screen": "system_debt_payoff",
+     "theme": 2,
+     "link": "PAID_URL",
+     "board": "Debt Payoff Plans",
+     "title": "See your debt-free date | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "See your debt-free date. Debt snowball & avalanche spreadsheet. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: see your debt-free date."
+    },
+    {
+     "id": "d26-c",
+     "template": "list",
+     "headline": "Payday checklist",
+     "items": [
+      "Pay bills due before next check",
+      "Move savings first",
+      "Add extra debt payment",
+      "Refill sinking funds",
+      "Set your daily spending number"
+     ],
+     "theme": 2,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Payday checklist | Budgeting Tips",
+     "description": "Payday checklist: Pay bills due before next check; Move savings first; Add extra debt payment; Refill sinking funds; Set your daily spending number. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Payday checklist: Pay bills due before next check, Move savings first, Add extra debt payment, Refill sinking funds, Set your daily spending number"
+    }
+   ]
+  },
+  {
+   "day": 27,
+   "reel": {
+    "id": "d27",
+    "variables": {
+     "format": "math",
+     "hook": "Where my $3,967 went in January",
+     "cta": "Send this to a friend · who gets paid every 2 weeks",
+     "ctaType": "share",
+     "music": "assets/music/m1.mp3",
+     "title": "January",
+     "rows": "Bills|1938;Everyday|984;Debt|712;Savings|250;Left over|83",
+     "line2": "Total: $3,967",
+     "line3": "Know it, then change it."
+    },
+    "caption": "Where my $3,967 went in January\n\nOne month of real tracking beats a year of guessing. (Example month.)\n\nSave this for your next payday, and send it to a friend who gets paid every 2 weeks.\nWant the full budget system? Comment BUDGET and I'll DM you the link.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "Where my $3,967 went in January #shorts"
+   },
+   "pins": [
+    {
+     "link": "PAID_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "amounts",
+     "headline": "Where my $3,967 went in January",
+     "mtitle": "January",
+     "rows": [
+      [
+       "Bills",
+       1938
+      ],
+      [
+       "Everyday",
+       984
+      ],
+      [
+       "Debt",
+       712
+      ],
+      [
+       "Savings",
+       250
+      ],
+      [
+       "Left over",
+       83
+      ]
+     ],
+     "total": "Total: $3,967",
+     "punch": "Know it, then change it.",
+     "id": "d27-a",
+     "title": "Where my $3,967 went in January | Paycheck Budget",
+     "description": "One month of real tracking beats a year of guessing. (Example month.) Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Where my $3,967 went in January. Know it, then change it."
+    },
+    {
+     "id": "d27-b",
+     "template": "shot",
+     "headline": "Budget spreadsheet with a dashboard",
+     "sub": "Plan vs actual, every month",
+     "screen": "system_dashboard",
+     "theme": 2,
+     "link": "PAID_URL",
+     "board": "Budget Templates & Spreadsheets",
+     "title": "Budget spreadsheet with a dashboard | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Budget spreadsheet with a dashboard. Plan vs actual, every month. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: budget spreadsheet with a dashboard."
+    },
+    {
+     "id": "d27-c",
+     "template": "list",
+     "headline": "Money saving challenges to try",
+     "items": [
+      "52-week challenge · $1,378",
+      "100 envelope challenge · $5,050",
+      "$1,000 in 100 days",
+      "No-spend weekend",
+      "Pantry challenge week"
+     ],
+     "theme": 2,
+     "link": "FREE52_URL",
+     "board": "Money Saving Challenges",
+     "title": "Money saving challenges to try | Budgeting Tips",
+     "description": "Money saving challenges to try: 52-week challenge · $1,378; 100 envelope challenge · $5,050; $1,000 in 100 days; No-spend weekend; Pantry challenge week. Save this for your next payday. Free 52-week savings challenge printable at the link. money saving challenge, 52 week savings challenge, how to save money.",
+     "alt": "Money saving challenges to try: 52-week challenge · $1,378, 100 envelope challenge · $5,050, $1,000 in 100 days, No-spend weekend, Pantry challenge week"
+    }
+   ]
+  },
+  {
+   "day": 28,
+   "reel": {
+    "id": "d28",
+    "variables": {
+     "format": "tips",
+     "hook": "Zero-based budget in 3 steps",
+     "cta": "Send this to a friend · who gets paid every 2 weeks",
+     "ctaType": "share",
+     "music": "assets/music/m2.mp3",
+     "line1": "Write down your take-home pay",
+     "line2": "Give every dollar a job: bills, food, savings",
+     "line3": "Income minus jobs should equal $0"
+    },
+    "caption": "Zero-based budget in 3 steps\n\nZero-based means nothing is left unplanned, not that nothing is left.\n\nSave this for your next payday, and send it to a friend who gets paid every 2 weeks.\nWant the free budget template? Comment BUDGET and I'll DM you the link.\n\n#budgeting #paychecktopaycheck #budgettips #moneytips #personalfinance #budgetplanner #biweeklybudget",
+    "youtube_title": "Zero-based budget in 3 steps #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "theme": 0,
+     "template": "list",
+     "headline": "Zero-based budget in 3 steps",
+     "items": [
+      "Write down your take-home pay",
+      "Give every dollar a job: bills, food, savings",
+      "Income minus jobs should equal $0"
+     ],
+     "id": "d28-a",
+     "title": "Zero-based budget in 3 steps | Paycheck Budget",
+     "description": "Zero-based means nothing is left unplanned, not that nothing is left. Save this pin for your next payday. Keywords: paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Zero-based budget in 3 steps."
+    },
+    {
+     "id": "d28-b",
+     "template": "shot",
+     "headline": "Plan all 12 months in 10 minutes",
+     "sub": "Monthly budget template",
+     "screen": "system_budget",
+     "theme": 2,
+     "link": "PAID_URL",
+     "board": "Budget Templates & Spreadsheets",
+     "title": "Plan all 12 months in 10 minutes | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Plan all 12 months in 10 minutes. Monthly budget template. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: plan all 12 months in 10 minutes."
+    },
+    {
+     "id": "d28-c",
+     "template": "list",
+     "headline": "Debt payoff tips that work",
+     "items": [
+      "List every debt with its rate",
+      "Pick snowball or avalanche",
+      "Pay minimums on all, extra on one",
+      "Roll each payoff into the next",
+      "Celebrate every payoff"
+     ],
+     "theme": 2,
+     "link": "FREE_URL",
+     "board": "Debt Payoff Plans",
+     "title": "Debt payoff tips that work | Budgeting Tips",
+     "description": "Debt payoff tips that work: List every debt with its rate; Pick snowball or avalanche; Pay minimums on all, extra on one; Roll each payoff into the next; Celebrate every payoff. Save this for your next payday. Free paycheck budget template at the link. debt payoff plan, debt snowball, debt free, budget spreadsheet.",
+     "alt": "Debt payoff tips that work: List every debt with its rate, Pick snowball or avalanche, Pay minimums on all, extra on one, Roll each payoff into the next, Celebrate every payoff"
+    }
+   ]
+  },
+  {
+   "day": 29,
+   "reel": {
+    "id": "d29",
+    "variables": {
+     "format": "challenge",
+     "hook": "The 52-week challenge, in reverse",
+     "cta": "Comment BUDGET · I'll DM you the free printable",
+     "ctaType": "comment",
+     "music": "assets/music/m3.mp3",
+     "cells": 52,
+     "start": 52,
+     "step": -1,
+     "label": "Start at $52 in January, end at $1",
+     "line3": "Save the big weeks while you're motivated."
+    },
+    "caption": "The 52-week challenge, in reverse\n\nSame $1,378, easier December.\n\nComment BUDGET and I'll DM you the free 52-week savings challenge printable.\nSave this for your next payday.\n\n#savingschallenge #52weekchallenge #savemoney #budgeting #moneysavingtips #frugalliving",
+    "youtube_title": "The 52-week challenge, in reverse #shorts"
+   },
+   "pins": [
+    {
+     "link": "FREE52_URL",
+     "board": "Money Saving Challenges",
+     "theme": 0,
+     "template": "grid",
+     "headline": "The 52-week challenge, in reverse",
+     "cells": 52,
+     "start": 52,
+     "step": -1,
+     "label": "Start at $52 in January, end at $1",
+     "id": "d29-a",
+     "title": "The 52-week challenge, in reverse | Money Saving Challenge",
+     "description": "Same $1,378, easier December. Save this pin for your next payday. Keywords: money saving challenge, 52 week savings challenge, how to save money.",
+     "alt": "The 52-week challenge, in reverse. Start at $52 in January, end at $1"
+    },
+    {
+     "id": "d29-b",
+     "template": "shot",
+     "headline": "Sinking funds tracker that does the math",
+     "sub": "How much to save each month",
+     "screen": "system_sinking_funds",
+     "theme": 2,
+     "link": "PAID_URL",
+     "board": "Sinking Funds & Saving Tips",
+     "title": "Sinking funds tracker that does the math | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "Sinking funds tracker that does the math. How much to save each month. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: sinking funds tracker that does the math."
+    },
+    {
+     "id": "d29-c",
+     "template": "list",
+     "headline": "Zero-based budget, explained",
+     "items": [
+      "Start with take-home pay",
+      "Give every dollar a job",
+      "Include savings and fun",
+      "Income − jobs = $0",
+      "Adjust every payday"
+     ],
+     "theme": 2,
+     "link": "FREE_URL",
+     "board": "Paycheck to Paycheck Budgeting",
+     "title": "Zero-based budget, explained | Budgeting Tips",
+     "description": "Zero-based budget, explained: Start with take-home pay; Give every dollar a job; Include savings and fun; Income − jobs = $0; Adjust every payday. Save this for your next payday. Free paycheck budget template at the link. paycheck budget, biweekly budget, budgeting for beginners, budget template.",
+     "alt": "Zero-based budget, explained: Start with take-home pay, Give every dollar a job, Include savings and fun, Income − jobs = $0, Adjust every payday"
+    }
+   ]
+  },
+  {
+   "day": 30,
+   "reel": {
+    "id": "d30",
+    "variables": {
+     "format": "planner",
+     "hook": "$150 extra a month did this",
+     "cta": "Comment BUDGET · I'll DM you the link",
+     "ctaType": "comment",
+     "music": "assets/music/m4.mp3",
+     "screen": "assets/screens/system_debt_payoff.png",
+     "screenRatio": 0.6167,
+     "focus": "0.0106,0.8941,0.3091,0.0470",
+     "label": "$4,300 less interest",
+     "line1": "Same 5 debts. Snowball plus $150 extra.",
+     "line2": "Compared with minimums",
+     "line3": "$4,300 less interest, 6 years sooner."
+    },
+    "caption": "$150 extra a month did this\n\nSmall extra payments, big difference. (Example debts.)\n\nComment BUDGET and I'll DM you the link to the full Paycheck to Paycheck Budget System.\nSave this for your next payday.\n\n#debtfree #debtpayoff #snowballmethod #budgeting #moneytips #personalfinance #debtfreejourney",
+    "youtube_title": "$150 extra a month did this #shorts"
+   },
+   "pins": [
+    {
+     "link": "PAID_URL",
+     "board": "Debt Payoff Plans",
+     "theme": 0,
+     "template": "stat",
+     "headline": "$150 extra a month did this",
+     "big": "$4,300 less interest",
+     "sub": "$4,300 less interest, 6 years sooner.",
+     "screen": "system_debt_payoff",
+     "crop": "0.0000,0.8395,0.3534,0.1562",
+     "id": "d30-a",
+     "title": "$150 extra a month did this | Debt Payoff Plan",
+     "description": "Small extra payments, big difference. (Example debts.) Save this pin for your next payday. Keywords: debt payoff plan, debt snowball, debt free, budget spreadsheet.",
+     "alt": "$150 extra a month did this. $4,300 less interest"
+    },
+    {
+     "id": "d30-b",
+     "template": "shot",
+     "headline": "52-week savings challenge tracker",
+     "sub": "Mark a week, watch it grow",
+     "screen": "system_challenge",
+     "theme": 2,
+     "link": "PAID_URL",
+     "board": "Money Saving Challenges",
+     "title": "52-week savings challenge tracker | Budget Spreadsheet for Google Sheets & Excel",
+     "description": "52-week savings challenge tracker. Mark a week, watch it grow. A budget spreadsheet for people living paycheck to paycheck. Works in Google Sheets and Excel. Includes a paycheck planner, monthly budget, dashboard, debt payoff planner, sinking funds tracker and a 52-week savings challenge.",
+     "alt": "Screenshot of a budget spreadsheet: 52-week savings challenge tracker."
+    },
+    {
+     "id": "d30-c",
+     "template": "list",
+     "headline": "Grocery budget tips",
+     "items": [
+      "Plan meals before you shop",
+      "Shop with a list",
+      "Buy store brands",
+      "Use what's in the pantry first",
+      "Set a weekly grocery number"
+     ],
+     "theme": 2,
+     "link": "FREE52_URL",
+     "board": "Money Saving Challenges",
+     "title": "Grocery budget tips | Budgeting Tips",
+     "description": "Grocery budget tips: Plan meals before you shop; Shop with a list; Buy store brands; Use what's in the pantry first; Set a weekly grocery number. Save this for your next payday. Free 52-week savings challenge printable at the link. money saving challenge, 52 week savings challenge, how to save money.",
+     "alt": "Grocery budget tips: Plan meals before you shop, Shop with a list, Buy store brands, Use what's in the pantry first, Set a weekly grocery number"
+    }
+   ]
+  }
+ ]
+}

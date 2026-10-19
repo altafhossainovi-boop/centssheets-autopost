@@ -1,0 +1,23 @@
+# Only the files the GitHub workflows need are published.
+# Products, research, sources and secrets stay on this computer.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/.github/
+
+!/automation/
+/automation/.env
+/automation/__pycache__/
+
+!/content/
+/content/*
+!/content/calendar.json
+!/content/links.json
+!/content/reels/
+/content/reels/*
+!/content/reels/renders/
+/content/reels/renders/*
+!/content/reels/renders/*.mp4
+
+.DS_Store
