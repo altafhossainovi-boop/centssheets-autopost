@@ -2,17 +2,24 @@ name: Post today's reel
 
 on:
   schedule:
-    # 16:00 UTC: noon in New York during daylight time, 10 pm in Dhaka.
-    - cron: "0 16 * * *"
+    # GitHub often starts on-the-hour schedules hours late, so these use odd minutes.
+    # 14:37 UTC is about 10:37 am in New York (daylight time) and 8:37 pm in Dhaka.
+    # The 17:07 run only posts if the first one failed or a reel is still behind.
+    - cron: "37 14 * * *"
+    - cron: "7 17 * * *"
   workflow_dispatch:
     inputs:
       day:
-        description: "Calendar day to post (blank = today's day)"
+        description: "Calendar day to post (blank = earliest unposted day up to today)"
         required: false
       dry_run:
         description: "Show what would be posted, post nothing"
         type: boolean
         default: true
+      upload_test:
+        description: "Upload to Instagram and wait for processing, but do not publish"
+        type: boolean
+        default: false
 
 concurrency:
   group: state
@@ -40,6 +47,7 @@ jobs:
           args=""
           [ -n "${{ inputs.day }}" ] && args="--day ${{ inputs.day }}"
           [ "${{ inputs.dry_run }}" = "true" ] && args="$args --dry-run"
+          [ "${{ inputs.upload_test }}" = "true" ] && args="$args --upload-test"
           python automation/post_reel.py $args
         env:
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
