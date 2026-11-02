@@ -19,5 +19,9 @@
 !/content/reels/renders/
 /content/reels/renders/*
 !/content/reels/renders/*.mp4
+# Pin images: public so Pinterest's bulk CSV can fetch them.
+!/content/pins/
+/content/pins/*
+!/content/pins/*.png
 
 .DS_Store
